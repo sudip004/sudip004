@@ -1,4 +1,4 @@
-[![MasterHead](https://www.programmingassignment.net/wp-content/uploads/2023/03/rust-programming.jpg)]
+[![MasterHead]]
 
 <h1 align="center">Hi 👋, I'm Sudip Basak</h1>
 <h3 align="center">A passionate MERN | Blockchain developer from India</h3>
